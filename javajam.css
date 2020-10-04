@@ -1,22 +1,28 @@
-body {
-	background-color: #FCEBB6;
-	}
-.site-header {
+header {
 	background-color: #D2B48C;
 	color: #8C3826;
 	text-align: center;
 }
-.site-footer {
-	background-color: #D2B48C;
-	color: #000000;
-}
-
-.site-footer a {
-	color: #000000;
-}
-div {
-	background-color: #FEFAEB;
+#pagecolor1{ background-color: #FEFAEB }
+footer {
+	background: #D2B48C;
+	text-align: center;
 }
 h1 {
 	color: #8C3826;
+}
+body {background-color: #FCEBB6;}
+#wrapper, html {
+width:80%;
+margin-left:auto;
+margin-right:auto;
+body {
+    margin: 0;
+    padding: 0;
+}
+
+div maincontainer {
+    margin: 0 auto;
+    width: ___px;
+    text-align: center;
 }
