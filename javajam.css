@@ -1,0 +1,22 @@
+body {
+	background-color: #FCEBB6;
+	}
+.site-header {
+	background-color: #D2B48C;
+	color: #8C3826;
+	text-align: center;
+}
+.site-footer {
+	background-color: #D2B48C;
+	color: #000000;
+}
+
+.site-footer a {
+	color: #000000;
+}
+div {
+	background-color: #FEFAEB;
+}
+h1 {
+	color: #8C3826;
+}
